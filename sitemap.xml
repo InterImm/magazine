@@ -4,15 +4,15 @@
   
   
   <url>
-    <loc>/about/</loc>
-    <lastmod>2014-10-15T05:24:55-06:00</lastmod>
+    <loc>//interimm.org/magazine/about/</loc>
+    <lastmod>2014-10-15T05:46:06-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2014-10-15T05:24:55-06:00</lastmod>
+    <loc>//interimm.org/magazine/</loc>
+    <lastmod>2014-10-15T05:46:06-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
