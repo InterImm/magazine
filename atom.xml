@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title>星际移民</title>
+    <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.4.0</generator>
+		<icon>/apple-touch-icon-precomposed.png</icon>
+    <subtitle>我们去的地方不需要路</subtitle>
+    <link href="/atom.xml" rel="self"/>
+    <link href="/" rel="alternate" type="text/html"/>
+    <updated>2014-10-15T05:24:55-06:00</updated>
+    <id>/</id>
+    <author>
+			<name>星际移民中心</name>
+			<uri>/</uri>
+			<email>interimm@qq.com</email>
+		</author>
+
+    
+</feed>
