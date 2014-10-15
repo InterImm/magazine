@@ -1,22 +1,33 @@
 ---
 layout: archive
 permalink: /
-title: "最近文章"
+title: 
 ---
 
 
-## 科普
+
+
+## 近期科学
 
 <div class="tiles">
-{% for post in site.posts.sci %}
+{% for post in site.categories.science limit:5 %}
 	{% include post-list.html %}
 {% endfor %}
 </div><!-- /.tiles -->
 
-## 科幻
+## 近期故事
 
 <div class="tiles">
-{% for post in site.posts.scifi %}
+{% for post in site.categories.stories limit:5 %}
+	{% include post-list.html %}
+{% endfor %}
+</div><!-- /.tiles -->
+
+## 近期历史
+
+
+<div class="tiles">
+{% for post in site.categories.history limit:5 %}
 	{% include post-list.html %}
 {% endfor %}
 </div><!-- /.tiles -->

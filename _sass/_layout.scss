@@ -396,7 +396,7 @@
 		@include font-size(12,no);
 	}
 	&:before {
-		content: 'Footnotes:';
+		content: '尾注:';
 		font-weight: 700;
 	}
 }
