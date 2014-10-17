@@ -1,12 +1,13 @@
 # Site wide configuration
 
 title: 星海航纪
+subtitle: "关于星际移民"
 description: "我们去的地方不需要路"
 logo: logo-120x120.png # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: zh-cn
-url: //interimm.org/magazine
-baseurl: /magazine
+url: #//interimm.org/magazine
+baseurl: #/magazine
 
 # Jekyll configuration
 
@@ -22,17 +23,42 @@ gems:
 
 share: false
 
+
+
+# New Settings
+
+cover_image: front-cover.jpg
+
+
+
+
+
+
 # Site owner
 owner:
   name: "星际移民中心"
   email: interimm@qq.com
   twitter:
   google:
-    ad-client: 
+    ad-client: UA-50146153-5
     ad-slot: 
   bio: "星际移民中心是一家从事星际移民的机构。"
   avatar: logo-120x120.png # 160x160 px image for author byline
-disqus-shortname:
+  weibo: 星际移民中心
+disqus-shortname: interimmmag
+
+
+
+
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+
+
+
+
+
+
+
+
+

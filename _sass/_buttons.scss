@@ -92,6 +92,8 @@
 		(tumblr, $tumblr-color),
 		(twitter, $twitter-color),
 		(vimeo, $vimeo-color),
+		(weibo, #FA7D3C),
+		(douban, #072),
 		(youtube, $youtube-color);
 	@extend .btn-inverse;
 	color: $text-color !important;

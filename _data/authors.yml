@@ -1,0 +1,20 @@
+OctoMiao:
+    name: OctoMiao
+    display_name: 章鱼喵
+    gravatar: 6305c4ddddd7a0733706f5b3116acb73
+    avatar: 
+    email: emptymalei@foxmail.com
+    web: http://openmetric.org
+    weibo: http://www.weibo.com/1510425807
+    bio: "星际移民中心员工"
+    douban: 
+    twitter: 
+    github: 
+example:
+    name: First Name
+    display_name: DisplayName
+    gravatar: 12e480a364a5c19214f99b4dfe9a11d5
+    email: example@company.com
+    web: http://example.com
+    twitter: 
+    github: 
