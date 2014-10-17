@@ -10,6 +10,6 @@ title:
 
 <div class="tiles">
 {% for post in site.categories.science %}
-	{% include post-list.html %}
+	{% include post-list-cn.html %}
 {% endfor %}
 </div><!-- /.tiles -->
