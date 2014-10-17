@@ -9,7 +9,7 @@
     <subtitle>我们去的地方不需要路</subtitle>
     <link href="//interimm.org/magazine/atom.xml" rel="self"/>
     <link href="//interimm.org/magazine/" rel="alternate" type="text/html"/>
-    <updated>2014-10-15T16:33:47-06:00</updated>
+    <updated>2014-10-17T02:59:15-06:00</updated>
     <id>//interimm.org/magazine/</id>
     <author>
 			<name>星际移民中心</name>
@@ -17,6 +17,34 @@
 			<email>interimm@qq.com</email>
 		</author>
 
+    
+    <entry>
+        <title>在火星上如何通过星空辨别方向</title>
+        <link href="//interimm.org/magazine/science/mars-north/"/>
+        <updated>2014-10-20T00:00:00-06:00</updated>
+        <id>//interimm.org/magazine/science/mars-north</id>
+        <author>
+					<name>星际移民中心</name>
+					<uri>//interimm.org/magazine/</uri>
+					<email>interimm@qq.com</email>
+				</author>
+        <content type="html">
+        	
+        	&lt;p&gt;首先要说明白的是，星空上用来辨别北方的位置并不是一成不变的（因为岁差），例如地球上在古希腊时期北极星是小熊座 beta 星又称北极二或帝星，而在将来的公元 16000 年，地球上的“北极星”就是织女星了。&lt;/p&gt;
+
+&lt;p&gt;同样的事情在火星也是成立的。不过作为一个示例，我们可以讨论地球上公元 2014 年，也就是火历二十四年的情况。那时候火星上并没有一个像当时地球上北极星这样的亮星来作为指极星。但是只需要找到天津四和仙王座阿尔法，它们连线中点（图中橙色的圆点）始终指向北。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;figcaption&gt;
+找到天津四和仙王座阿尔法，它们连线中点（图中橙色的圆点）始终指向北。图片制作使用了 &lt;a href=&quot;http://www.stellarium.org/&quot; target=&quot;_blank&quot;&gt;Stellerium&lt;/a&gt;.
+&lt;/figcaption&gt;
+  &lt;p&gt;&lt;img src=&quot;//interimm.org/magazine/images/mars-northern-star.png&quot; alt=&quot;火星上寻找北极的方法&quot; /&gt;&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;作为一个有趣的补充知识，在大约公元九千年，在地球上找北方的方法，就跟上面一样了！&lt;/p&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>故事占位文</title>
@@ -33,25 +61,6 @@
         	&lt;h2 id=&quot;section&quot;&gt;标题&lt;/h2&gt;
 
 &lt;p&gt;这是故事类的占位文章。&lt;/p&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>科学占位文</title>
-        <link href="//interimm.org/magazine/science/science/"/>
-        <updated>2014-10-15T00:00:00-06:00</updated>
-        <id>//interimm.org/magazine/science/science</id>
-        <author>
-					<name>星际移民中心</name>
-					<uri>//interimm.org/magazine/</uri>
-					<email>interimm@qq.com</email>
-				</author>
-        <content type="html">
-        	
-        	&lt;h2 id=&quot;section&quot;&gt;标题&lt;/h2&gt;
-
-&lt;p&gt;这是科学类的占位文章。&lt;/p&gt;
 
         </content>
     </entry>
