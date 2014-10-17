@@ -9,7 +9,7 @@
     <subtitle>我们去的地方不需要路</subtitle>
     <link href="//interimm.org/magazine/atom.xml" rel="self"/>
     <link href="//interimm.org/magazine/" rel="alternate" type="text/html"/>
-    <updated>2014-10-17T02:59:15-06:00</updated>
+    <updated>2014-10-17T14:53:29-06:00</updated>
     <id>//interimm.org/magazine/</id>
     <author>
 			<name>星际移民中心</name>
@@ -19,9 +19,153 @@
 
     
     <entry>
+        <title>探测系外行星大气</title>
+        <link href="//interimm.org/magazine/science/exoplanet-atm/"/>
+        <updated>2014-10-17T00:00:00-06:00</updated>
+        <id>//interimm.org/magazine/science/exoplanet-atm</id>
+        <author>
+					<name>星际移民中心</name>
+					<uri>//interimm.org/magazine/</uri>
+					<email>interimm@qq.com</email>
+				</author>
+        <content type="html">
+        	
+        	&lt;h2 id=&quot;section&quot;&gt;行星探测方法&lt;/h2&gt;
+
+&lt;p&gt;探测系外行星的方法中，凌日/星法是现在用的最多的。&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;figcaption&gt;
+当行星经过恒星和我们之间的时候，恒星的亮度会变化。图片来自 &lt;a href=&quot;http://www.novacelestia.com/images/extrasolar_photometric_transit_method.html&quot; target=&quot;_blank&quot;&gt;Photometric transit method | Detecting Extrasolar Planets @ Nova Celestia&lt;/a&gt;.
+&lt;/figcaption&gt;
+  &lt;p&gt;&lt;img src=&quot;//interimm.org/magazine/images/exoplanets/extrasolar_photometric_transit_method_medium.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;当行星运行到恒星与你们地球之间的时候，远处就会看到恒星亮度的减弱。而且减弱的曲线和时间也跟系外行星自身的大小和轨道的参数有关。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;探测大气是否存在&lt;/h2&gt;
+
+&lt;p&gt;如果仅仅需要知道行星是否存在大气，只需要看光谱的变化。&lt;/p&gt;
+
+&lt;p&gt;在详细解释之前，补充两点背景知识：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;化学分子对不同波长的吸收&lt;/p&gt;
+
+    &lt;figure&gt;
+      &lt;figcaption&gt;
+ Burrows 2014
+ &lt;/figcaption&gt;
+      &lt;p&gt;&lt;img src=&quot;//interimm.org/magazine/images/exoplanets/atmosphereAtomMolecular.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+    &lt;/figure&gt;
+
+    &lt;p&gt;对于不同的波长，不同的化学分子有不同的散射界面。散射界面越小，就显得越透明。&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;图中有一个有趣的例子是二氧化碳。二氧化碳的散射界面在波长比较长的时候变得很大，可以将这些波长“囚禁”起来，而这些波长正好是产生热效应的波长，所以二氧化碳是一种温室气体。&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;大气层的密度随着高度变化&lt;/p&gt;
+
+    &lt;figure&gt;
+      &lt;figcaption&gt;
+ &lt;a href=&quot;http://space-art.co.uk&quot; target=&quot;_blank&quot;&gt;Mark A. Garlick&lt;/a&gt;
+ &lt;/figcaption&gt;
+      &lt;p&gt;&lt;img src=&quot;//interimm.org/magazine/images/exoplanets/hd209458b-puffed-atmosphere.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+    &lt;/figure&gt;
+
+    &lt;p&gt;大气层的密度越往高处就越小，这是一个渐变的过程。大气密度越大，就越不透明。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;结合这两点，一种可以分辨有没有大气层的方法是，观测不同波长下的行星的大小（或者直接跟观测挂钩的话，看不同波长下上面提到的 transit 曲线，也就是行星挡住的恒星的光的多少）。&lt;/p&gt;
+
+&lt;p&gt;例如有颗系外行星上面只有二氧化碳，当利用凌日/星法测量行星的大小的时候，会发现不同波长的测量给出不同的结果。如果地球人用 15 微米和10 微米的波长分别测一次行星的大小，会发现 15 微米波长下测量的行星的半径要大些，因为这次测量中，大气对 15 微米来说更加不透明，而大气越往底部密度越大，也就是更加不透明，所以 15 微米测量中，上层的大气也能挡住恒星的光芒。而 10 微米测量中，需要更加“厚重”的大气才能挡住恒星的光芒，也就是光可以透过更深层的大气，对应于地球人的观测，就是会看到更小的行星。&lt;/p&gt;
+
+&lt;p&gt;所以通过看不同波长的行星的大小，就可以知道行星有没有大气了。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;大气层的成分&lt;/h2&gt;
+
+&lt;p&gt;现在用的方法是分析光谱。光谱有多种，例如透射光谱（有个背景光源，光线透过被观测的物体形成的光谱），发射光谱（被观测物体本身的热辐射或者其他能级跃迁造成的辐射）等等。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;figcaption&gt;
+&lt;a href=&quot;http://seagerexoplanets.mit.edu/research.htm&quot; target=&quot;_blank&quot;&gt;S. Seager&lt;/a&gt;
+&lt;/figcaption&gt;
+  &lt;p&gt;&lt;img src=&quot;//interimm.org/magazine/images/exoplanets/transit-seager.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;当行星运行到地球和恒星之间的时候，地球人可以看到行星大气的透射光谱+恒星的光谱，而当行星运行到快要进入恒星背面的时候，地球人可以看到行星大气的发射光谱+恒星的光谱，当行星再继续，完全被恒星挡住，只能看到恒星的光谱。这样前面两组光谱减去第三组，如此就可以分辨行星的透射光谱和发射光谱。&lt;/p&gt;
+
+&lt;p&gt;有了光谱，就可以通过已知的不同分子对光谱的吸收来分析行星大气的成分。&lt;/p&gt;
+
+&lt;p&gt;还是用前面那张图：&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;figcaption&gt;
+Burrows 2014
+&lt;/figcaption&gt;
+  &lt;p&gt;&lt;img src=&quot;//interimm.org/magazine/images/exoplanets/atmosphereAtomMolecular.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;因为光在大气中运行的时候，会遇到很多事情，&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;分子原子的电子跃迁会产生不同的谱线；&lt;/li&gt;
+  &lt;li&gt;分子的转动-振动谱线；&lt;/li&gt;
+  &lt;li&gt;散射，包括瑞利散射（散射粒子远小于光波长）和米散射（散射粒子大于光波长）。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;这样总有些特征性的谱线，例如能级跃迁的谱线，这些是特征性的。然后拿观测到的谱线跟已知的上面这张图对照，就可以发现什么。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;当然，真正的数据处理是很复杂的，需要考虑具体的 radiation transfer，然后考虑污染问题等等。而且获取的光谱数据本来就不干净，数据处理就更难了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;另外需要提到的是，光谱的方法不仅仅限于凌日/星法，其他的方法也行，只要拿到光谱就行。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;水及其他&lt;/h2&gt;
+
+&lt;p&gt;一个比较有趣的话题是，系外行星上有没有水（或水蒸气）。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;figcaption&gt;
+绿线是水蒸气的吸收谱。&lt;a href=&quot;http://en.wikipedia.org/wiki/Electromagnetic_absorption_by_water&quot; target=&quot;_blank&quot;&gt;wikipedia&lt;/a&gt;
+&lt;/figcaption&gt;
+  &lt;p&gt;&lt;img src=&quot;//interimm.org/magazine/images/exoplanets/water_vapor_spectrum.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;在 2007 年的一篇 Nature 文章中 &lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;，他们用了 0.9~1 微米的吸收谱。&lt;/p&gt;
+
+&lt;p&gt;总之，可以通过看谱线来分析是否含有水分子。甚至可以分析云层、雾气、冰霜等等。&lt;/p&gt;
+
+&lt;p&gt;另外，通过看一些特定的分子的丰度，例如四氟化碳，CCl3F，CFC 类等等，可以外星分析类似地球上工业文明的可能性。&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;更多的更详细的介绍请参考星际移民中心的&lt;a href=&quot;http://exoplanets.readthedocs.org/&quot; target=&quot;_blank&quot;&gt;《系外行星文档》&lt;/a&gt;。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;论文的 arXiv 链接：&lt;a href=&quot;http://arxiv.org/abs/0707.3064&quot; target=&quot;_blank&quot;&gt;arXiv:0707.3064 [astro-ph]&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Detecting industrial pollution in the atmospheres of earth-like exoplanets: &lt;a href=&quot;http://arxiv.org/abs/1406.3025&quot; target=&quot;_blank&quot;&gt;arXiv:1406.3025 [astro-ph.EP]&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
         <title>在火星上如何通过星空辨别方向</title>
         <link href="//interimm.org/magazine/science/mars-north/"/>
-        <updated>2014-10-20T00:00:00-06:00</updated>
+        <updated>2014-10-16T00:00:00-06:00</updated>
         <id>//interimm.org/magazine/science/mars-north</id>
         <author>
 					<name>星际移民中心</name>
