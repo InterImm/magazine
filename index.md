@@ -9,7 +9,7 @@ title:
     
     <section>
         <div class="container" style="padding-top:1em;">
-            <h1 style="text-align:center;color:#fff;font-weight:600;">{{ site.title }}</h1>
+            <h1 style="text-align:center;color:#fff;font-weight:600;" id="site-title-front">{{ site.title }}</h1>
             {% if site.description %}<h3 style="text-align:center;color:#fff;font-weight:600;font-size:90%;">{{ site.description }}</h3>{% endif %}
         </div>
 <div class="featured" style="border-top:1px solid grey;margin:0 10% 0 10%;">
@@ -55,7 +55,7 @@ title:
 	{% if site.categories.stories.size %}
 <a href="./stories/">查看所有故事（共 {{ site.categories.stories.size }} 篇）</a>
 		{% else %}
-暂无文章
+暂无故事类文章
 		{% endif %}
 
 
@@ -72,6 +72,6 @@ title:
 {% if site.categories.history.size %}
 <a href="./history/">查看所有故事（共 {{ site.categories.history.size }} 篇）</a>
 		{% else %}
-暂无文章
+暂无历史类文章
 		{% endif %}
 
