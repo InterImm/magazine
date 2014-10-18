@@ -9,7 +9,7 @@
     <subtitle>我们去的地方不需要路</subtitle>
     <link href="//interimm.org/magazine/atom.xml" rel="self"/>
     <link href="//interimm.org/magazine/" rel="alternate" type="text/html"/>
-    <updated>2014-10-17T14:53:29-06:00</updated>
+    <updated>2014-10-18T11:17:38-06:00</updated>
     <id>//interimm.org/magazine/</id>
     <author>
 			<name>星际移民中心</name>
@@ -186,44 +186,6 @@ Burrows 2014
 &lt;/figure&gt;
 
 &lt;p&gt;作为一个有趣的补充知识，在大约公元九千年，在地球上找北方的方法，就跟上面一样了！&lt;/p&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>故事占位文</title>
-        <link href="//interimm.org/magazine/stories/stories/"/>
-        <updated>2014-10-15T00:00:00-06:00</updated>
-        <id>//interimm.org/magazine/stories/stories</id>
-        <author>
-					<name>星际移民中心</name>
-					<uri>//interimm.org/magazine/</uri>
-					<email>interimm@qq.com</email>
-				</author>
-        <content type="html">
-        	
-        	&lt;h2 id=&quot;section&quot;&gt;标题&lt;/h2&gt;
-
-&lt;p&gt;这是故事类的占位文章。&lt;/p&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>历史占位文</title>
-        <link href="//interimm.org/magazine/history/history/"/>
-        <updated>2014-10-15T00:00:00-06:00</updated>
-        <id>//interimm.org/magazine/history/history</id>
-        <author>
-					<name>星际移民中心</name>
-					<uri>//interimm.org/magazine/</uri>
-					<email>interimm@qq.com</email>
-				</author>
-        <content type="html">
-        	
-        	&lt;h2 id=&quot;section&quot;&gt;标题&lt;/h2&gt;
-
-&lt;p&gt;这是历史类的占位文章。&lt;/p&gt;
 
         </content>
     </entry>
