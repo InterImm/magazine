@@ -43,12 +43,21 @@ title:
 ## 近期故事
 
 <div class="tiles">
+
 {% for post in site.categories.stories limit:5 %}
 	{% include post-list-cn.html %}
 {% endfor %}
+
 </div><!-- /.tiles -->
 
+
+
+	{% if site.categories.stories.size %}
 <a href="./stories/">查看所有故事（共 {{ site.categories.stories.size }} 篇）</a>
+		{% else %}
+暂无文章
+		{% endif %}
+
 
 ## 近期历史
 
@@ -58,4 +67,11 @@ title:
 {% endfor %}
 </div><!-- /.tiles -->
 
-<a href="./history/">查看所有历史（共 {{ site.categories.history.size }} 篇）</a>
+
+
+{% if site.categories.history.size %}
+<a href="./history/">查看所有故事（共 {{ site.categories.history.size }} 篇）</a>
+		{% else %}
+暂无文章
+		{% endif %}
+
