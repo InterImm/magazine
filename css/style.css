@@ -144,3 +144,7 @@ blockquote p {
   display: inline !important;
 }
 
+#site-version {
+    text-transform: lowercase;
+}
+
