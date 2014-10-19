@@ -8,7 +8,7 @@ share: false
 
 杂志中的文章全部是由 [Kramdown](http://kramdown.gettalong.org)[^1] 生成，原稿需遵循 Kramdown 语法。
 
-投稿需要切合星际移民主题，题材不限。
+投稿需要切合星际移民主题，题材不限。投稿邮箱：<img src="../images/email-magazine.png">
 
 
 
