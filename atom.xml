@@ -9,7 +9,7 @@
     <subtitle>我们去的地方不需要路</subtitle>
     <link href="//interimm.org/magazine/atom.xml" rel="self"/>
     <link href="//interimm.org/magazine/" rel="alternate" type="text/html"/>
-    <updated>2014-10-18T12:23:46-06:00</updated>
+    <updated>2014-10-18T23:24:03-06:00</updated>
     <id>//interimm.org/magazine/</id>
     <author>
 			<name>星际移民中心</name>
@@ -17,6 +17,61 @@
 			<email>interimm@qq.com</email>
 		</author>
 
+    
+    <entry>
+        <title>火星的日落</title>
+        <link href="//interimm.org/magazine/stories/martian-sunset-phobos/"/>
+        <updated>2014-10-18T00:00:00-06:00</updated>
+        <id>//interimm.org/magazine/stories/martian-sunset-phobos</id>
+        <author>
+					<name>星际移民中心</name>
+					<uri>//interimm.org/magazine/</uri>
+					<email>interimm@qq.com</email>
+				</author>
+        <content type="html">
+        	
+        	&lt;p&gt;有位朋友曾经是火星旅游景点勘探员，他常常给我描述火星上很多迷人的景色。其中提到最多的是火星的日出日落，比如说，蓝色的太阳。这篇小短文中，我就说说火星的日出日落吧。&lt;/p&gt;
+
+&lt;p&gt;火星有两颗卫星，火卫一 Phobos 和火卫二 Deimos. 两颗卫星公转周期都非常短，所以火星上日食是经常发生的。只是由于两颗卫星比较小，形状不规则，不会像地球这样发生完美的日全食。&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;日落&lt;/h2&gt;
+
+&lt;figure&gt;
+  &lt;figcaption&gt;
+火星蓝色的日落，火卫一 Phobos 正经过太阳前面。Credit: NASA/JPL-Caltech/Cornell/Texas A&amp;amp;M
+&lt;/figcaption&gt;
+  &lt;p&gt;&lt;img src=&quot;//interimm.org/magazine/images/mars/blue_sun_phobos.jpg&quot; alt=&quot;蓝色日落&quot; /&gt;&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;除了照片，还有一段古老的视频。&lt;/p&gt;
+
+&lt;embed src=&quot;http://player.youku.com/player.php/sid/XMjMxNjg2MjE2/v.swf&quot; allowfullscreen=&quot;true&quot; quality=&quot;high&quot; width=&quot;480&quot; height=&quot;400&quot; align=&quot;middle&quot; allowscriptaccess=&quot;always&quot; type=&quot;application/x-shockwave-flash&quot; /&gt;
+
+&lt;p&gt;有时候天空有些如丝的薄云，我们就会看到蓝色和紫色的云彩。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;figcaption&gt;
+更大的角度来看日落。&lt;a href=&quot;https://en.wikipedia.org/wiki/File:MarsSunset.jpg&quot;&gt;File:MarsSunset.jpg&lt;/a&gt;
+&lt;/figcaption&gt;
+  &lt;p&gt;&lt;img src=&quot;//interimm.org/magazine/images/mars/998px-MarsSunset.jpg&quot; alt=&quot;蓝色日落&quot; /&gt;&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;由于火星大气中颗粒的作用，火星的日落会出现不同的颜色，例如上面的蓝色。不同的天气状况会出现不同的日落，除了蓝太阳，也会有红色的日落。&lt;/p&gt;
+
+&lt;embed height=&quot;452&quot; width=&quot;544&quot; quality=&quot;high&quot; allowfullscreen=&quot;true&quot; type=&quot;application/x-shockwave-flash&quot; src=&quot;http://share.acg.tv/flash.swf&quot; flashvars=&quot;aid=1634896&amp;amp;page=1&quot; pluginspage=&quot;http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&quot; /&gt;
+
+&lt;p&gt;最后给大家一张我这位火星旅游景点勘探员在一次出任务的时候拍回来的照片。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;figcaption&gt;
+黄昏中的旅游景点开发站。&lt;a href=&quot;http://www.arcadiastreet.com/cgvistas/spacexp/se_mars_2500b.htm&quot;&gt;Walter Myers&lt;/a&gt;
+&lt;/figcaption&gt;
+  &lt;p&gt;&lt;img src=&quot;//interimm.org/magazine/images/mars/mars_outpost_mesa_1280.jpg&quot; alt=&quot;蓝色日落&quot; /&gt;&lt;/p&gt;
+&lt;/figure&gt;
+
+
+        </content>
+    </entry>
     
     <entry>
         <title>探测系外行星大气</title>
