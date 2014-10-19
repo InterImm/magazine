@@ -28,7 +28,7 @@ summary: 火星的日落常常呈现出与地球完全不同的景象，比如�
 除了照片，还有一段古老的视频。
 
 
-<embed src="http://player.youku.com/player.php/sid/XMjMxNjg2MjE2/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash">
+<embed src="http://player.youku.com/player.php/sid/XODA2NTQwODc2/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash">
 
 
 
