@@ -5,27 +5,27 @@
 
     <title>星海航纪</title>
     <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.4.0</generator>
-		<icon>//interimm.org/magazine/apple-touch-icon-precomposed.png</icon>
+		<icon>http://interimm.org/magazine/apple-touch-icon-precomposed.png</icon>
     <subtitle>我们去的地方不需要路</subtitle>
-    <link href="//interimm.org/magazine/atom.xml" rel="self"/>
-    <link href="//interimm.org/magazine/" rel="alternate" type="text/html"/>
-    <updated>2014-10-19T00:31:02-06:00</updated>
-    <id>//interimm.org/magazine/</id>
+    <link href="http://interimm.org/magazine/atom.xml" rel="self"/>
+    <link href="http://interimm.org/magazine/" rel="alternate" type="text/html"/>
+    <updated>2014-10-19T10:43:19-06:00</updated>
+    <id>http://interimm.org/magazine/</id>
     <author>
 			<name>星际移民中心</name>
-			<uri>//interimm.org/magazine/</uri>
+			<uri>http://interimm.org/magazine/</uri>
 			<email>interimm@qq.com</email>
 		</author>
 
     
     <entry>
         <title>火星的日落</title>
-        <link href="//interimm.org/magazine/stories/martian-sunset-phobos/"/>
+        <link href="http://interimm.org/magazine/stories/martian-sunset-phobos/"/>
         <updated>2014-10-18T00:00:00-06:00</updated>
-        <id>//interimm.org/magazine/stories/martian-sunset-phobos</id>
+        <id>http://interimm.org/magazine/stories/martian-sunset-phobos</id>
         <author>
 					<name>星际移民中心</name>
-					<uri>//interimm.org/magazine/</uri>
+					<uri>http://interimm.org/magazine/</uri>
 					<email>interimm@qq.com</email>
 				</author>
         <content type="html">
@@ -40,7 +40,7 @@
   &lt;figcaption&gt;
 火星蓝色的日落，火卫一 Phobos 正经过太阳前面。Credit: NASA/JPL-Caltech/Cornell/Texas A&amp;amp;M
 &lt;/figcaption&gt;
-  &lt;p&gt;&lt;img src=&quot;//interimm.org/magazine/images/mars/blue_sun_phobos.jpg&quot; alt=&quot;蓝色日落&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;http://interimm.org/magazine/images/mars/blue_sun_phobos.jpg&quot; alt=&quot;蓝色日落&quot; /&gt;&lt;/p&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;除了照片，还有一段古老的视频。&lt;/p&gt;
@@ -53,7 +53,7 @@
   &lt;figcaption&gt;
 更大的角度来看日落。&lt;a href=&quot;https://en.wikipedia.org/wiki/File:MarsSunset.jpg&quot;&gt;File:MarsSunset.jpg&lt;/a&gt;
 &lt;/figcaption&gt;
-  &lt;p&gt;&lt;img src=&quot;//interimm.org/magazine/images/mars/998px-MarsSunset.jpg&quot; alt=&quot;蓝色日落&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;http://interimm.org/magazine/images/mars/998px-MarsSunset.jpg&quot; alt=&quot;蓝色日落&quot; /&gt;&lt;/p&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;由于火星大气中颗粒的作用，火星的日落会出现不同的颜色，例如上面的蓝色。不同的天气状况会出现不同的日落，除了蓝太阳，也会有红色的日落。&lt;/p&gt;
@@ -66,7 +66,7 @@
   &lt;figcaption&gt;
 黄昏中的旅游景点开发站。&lt;a href=&quot;http://www.arcadiastreet.com/cgvistas/spacexp/se_mars_2500b.htm&quot;&gt;Walter Myers&lt;/a&gt;
 &lt;/figcaption&gt;
-  &lt;p&gt;&lt;img src=&quot;//interimm.org/magazine/images/mars/mars_outpost_mesa_1280.jpg&quot; alt=&quot;蓝色日落&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;http://interimm.org/magazine/images/mars/mars_outpost_mesa_1280.jpg&quot; alt=&quot;蓝色日落&quot; /&gt;&lt;/p&gt;
 &lt;/figure&gt;
 
 
@@ -75,12 +75,12 @@
     
     <entry>
         <title>探测系外行星大气</title>
-        <link href="//interimm.org/magazine/science/exoplanet-atm/"/>
+        <link href="http://interimm.org/magazine/science/exoplanet-atm/"/>
         <updated>2014-10-17T00:00:00-06:00</updated>
-        <id>//interimm.org/magazine/science/exoplanet-atm</id>
+        <id>http://interimm.org/magazine/science/exoplanet-atm</id>
         <author>
 					<name>星际移民中心</name>
-					<uri>//interimm.org/magazine/</uri>
+					<uri>http://interimm.org/magazine/</uri>
 					<email>interimm@qq.com</email>
 				</author>
         <content type="html">
@@ -93,7 +93,7 @@
   &lt;figcaption&gt;
 当行星经过恒星和我们之间的时候，恒星的亮度会变化。图片来自 &lt;a href=&quot;http://www.novacelestia.com/images/extrasolar_photometric_transit_method.html&quot; target=&quot;_blank&quot;&gt;Photometric transit method | Detecting Extrasolar Planets @ Nova Celestia&lt;/a&gt;.
 &lt;/figcaption&gt;
-  &lt;p&gt;&lt;img src=&quot;//interimm.org/magazine/images/exoplanets/extrasolar_photometric_transit_method_medium.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;http://interimm.org/magazine/images/exoplanets/extrasolar_photometric_transit_method_medium.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;当行星运行到恒星与你们地球之间的时候，远处就会看到恒星亮度的减弱。而且减弱的曲线和时间也跟系外行星自身的大小和轨道的参数有关。&lt;/p&gt;
@@ -112,7 +112,7 @@
       &lt;figcaption&gt;
  Burrows 2014
  &lt;/figcaption&gt;
-      &lt;p&gt;&lt;img src=&quot;//interimm.org/magazine/images/exoplanets/atmosphereAtomMolecular.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;http://interimm.org/magazine/images/exoplanets/atmosphereAtomMolecular.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
     &lt;/figure&gt;
 
     &lt;p&gt;对于不同的波长，不同的化学分子有不同的散射界面。散射界面越小，就显得越透明。&lt;/p&gt;
@@ -128,7 +128,7 @@
       &lt;figcaption&gt;
  &lt;a href=&quot;http://space-art.co.uk&quot; target=&quot;_blank&quot;&gt;Mark A. Garlick&lt;/a&gt;
  &lt;/figcaption&gt;
-      &lt;p&gt;&lt;img src=&quot;//interimm.org/magazine/images/exoplanets/hd209458b-puffed-atmosphere.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;http://interimm.org/magazine/images/exoplanets/hd209458b-puffed-atmosphere.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
     &lt;/figure&gt;
 
     &lt;p&gt;大气层的密度越往高处就越小，这是一个渐变的过程。大气密度越大，就越不透明。&lt;/p&gt;
@@ -149,7 +149,7 @@
   &lt;figcaption&gt;
 &lt;a href=&quot;http://seagerexoplanets.mit.edu/research.htm&quot; target=&quot;_blank&quot;&gt;S. Seager&lt;/a&gt;
 &lt;/figcaption&gt;
-  &lt;p&gt;&lt;img src=&quot;//interimm.org/magazine/images/exoplanets/transit-seager.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;http://interimm.org/magazine/images/exoplanets/transit-seager.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;当行星运行到地球和恒星之间的时候，地球人可以看到行星大气的透射光谱+恒星的光谱，而当行星运行到快要进入恒星背面的时候，地球人可以看到行星大气的发射光谱+恒星的光谱，当行星再继续，完全被恒星挡住，只能看到恒星的光谱。这样前面两组光谱减去第三组，如此就可以分辨行星的透射光谱和发射光谱。&lt;/p&gt;
@@ -162,7 +162,7 @@
   &lt;figcaption&gt;
 Burrows 2014
 &lt;/figcaption&gt;
-  &lt;p&gt;&lt;img src=&quot;//interimm.org/magazine/images/exoplanets/atmosphereAtomMolecular.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;http://interimm.org/magazine/images/exoplanets/atmosphereAtomMolecular.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;因为光在大气中运行的时候，会遇到很多事情，&lt;/p&gt;
@@ -191,7 +191,7 @@ Burrows 2014
   &lt;figcaption&gt;
 绿线是水蒸气的吸收谱。&lt;a href=&quot;http://en.wikipedia.org/wiki/Electromagnetic_absorption_by_water&quot; target=&quot;_blank&quot;&gt;wikipedia&lt;/a&gt;
 &lt;/figcaption&gt;
-  &lt;p&gt;&lt;img src=&quot;//interimm.org/magazine/images/exoplanets/water_vapor_spectrum.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;http://interimm.org/magazine/images/exoplanets/water_vapor_spectrum.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;在 2007 年的一篇 Nature 文章中 &lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;，他们用了 0.9~1 微米的吸收谱。&lt;/p&gt;
@@ -219,12 +219,12 @@ Burrows 2014
     
     <entry>
         <title>在火星上如何通过星空辨别方向</title>
-        <link href="//interimm.org/magazine/science/mars-north/"/>
+        <link href="http://interimm.org/magazine/science/mars-north/"/>
         <updated>2014-10-16T00:00:00-06:00</updated>
-        <id>//interimm.org/magazine/science/mars-north</id>
+        <id>http://interimm.org/magazine/science/mars-north</id>
         <author>
 					<name>星际移民中心</name>
-					<uri>//interimm.org/magazine/</uri>
+					<uri>http://interimm.org/magazine/</uri>
 					<email>interimm@qq.com</email>
 				</author>
         <content type="html">
@@ -237,7 +237,7 @@ Burrows 2014
   &lt;figcaption&gt;
 找到天津四和仙王座阿尔法，它们连线中点（图中橙色的圆点）始终指向北。图片制作使用了 &lt;a href=&quot;http://www.stellarium.org/&quot; target=&quot;_blank&quot;&gt;Stellerium&lt;/a&gt;.
 &lt;/figcaption&gt;
-  &lt;p&gt;&lt;img src=&quot;//interimm.org/magazine/images/mars-northern-star.png&quot; alt=&quot;火星上寻找北极的方法&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;http://interimm.org/magazine/images/mars-northern-star.png&quot; alt=&quot;火星上寻找北极的方法&quot; /&gt;&lt;/p&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;作为一个有趣的补充知识，在大约公元九千年，在地球上找北方的方法，就跟上面一样了！&lt;/p&gt;

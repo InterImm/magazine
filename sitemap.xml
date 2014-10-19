@@ -3,7 +3,7 @@
   
   
   <url>
-    <loc>//interimm.org/magazine/stories/martian-sunset-phobos/</loc>
+    <loc>http://interimm.org/magazine/stories/martian-sunset-phobos/</loc>
     
     <lastmod>2014-10-18T00:00:00-06:00</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>//interimm.org/magazine/science/exoplanet-atm/</loc>
+    <loc>http://interimm.org/magazine/science/exoplanet-atm/</loc>
     
     <lastmod>2014-10-17T00:00:00-06:00</lastmod>
     
@@ -19,7 +19,7 @@
   </url>
   
   <url>
-    <loc>//interimm.org/magazine/science/mars-north/</loc>
+    <loc>http://interimm.org/magazine/science/mars-north/</loc>
     
     <lastmod>2014-10-16T00:00:00-06:00</lastmod>
     
@@ -28,43 +28,43 @@
   
   
   <url>
-    <loc>//interimm.org/magazine/stories/</loc>
-    <lastmod>2014-10-19T00:31:02-06:00</lastmod>
+    <loc>http://interimm.org/magazine/stories/</loc>
+    <lastmod>2014-10-19T10:43:19-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>//interimm.org/magazine/about/</loc>
-    <lastmod>2014-10-19T00:31:02-06:00</lastmod>
+    <loc>http://interimm.org/magazine/about/</loc>
+    <lastmod>2014-10-19T10:43:19-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>//interimm.org/magazine/</loc>
-    <lastmod>2014-10-19T00:31:02-06:00</lastmod>
+    <loc>http://interimm.org/magazine/</loc>
+    <lastmod>2014-10-19T10:43:19-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>//interimm.org/magazine/science/</loc>
-    <lastmod>2014-10-19T00:31:02-06:00</lastmod>
+    <loc>http://interimm.org/magazine/science/</loc>
+    <lastmod>2014-10-19T10:43:19-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>//interimm.org/magazine/subscribe/</loc>
-    <lastmod>2014-10-19T00:31:02-06:00</lastmod>
+    <loc>http://interimm.org/magazine/subscribe/</loc>
+    <lastmod>2014-10-19T10:43:19-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>//interimm.org/magazine/history/</loc>
-    <lastmod>2014-10-19T00:31:02-06:00</lastmod>
+    <loc>http://interimm.org/magazine/history/</loc>
+    <lastmod>2014-10-19T10:43:19-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
