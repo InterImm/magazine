@@ -2,7 +2,7 @@
 layout: article
 title: "在火星上如何通过星空辨别方向"
 modified: 2014-10-17 #2014-08-27T11:57:41-04:00
-author: OctoMiao
+author: InterImm
 toc: false
 comments: true
 categories: science
