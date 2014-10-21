@@ -46,6 +46,18 @@ unionx:
     douban: 
     twitter: 
     github: 
+InterImm:
+    name: 星际移民中心
+    display_name: 星际移民中心
+    gravatar: b8ee07de96a1d7bcd36a5c2664780c8c
+    avatar: interimm.png
+    email: interimm@qq.com
+    web: http://interimm.org
+    weibo: http://www.weibo.com/iiaofficial
+    bio: "<b>星际移民中心</b>"
+    douban: 
+    twitter: 
+    github: 
 example:
     name: First Name
     display_name: DisplayName
