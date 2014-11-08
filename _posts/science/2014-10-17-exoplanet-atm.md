@@ -2,7 +2,7 @@
 layout: article
 title: "探测系外行星大气"
 modified: 2014-10-17 #2014-08-27T11:57:41-04:00
-author: OctoMiao
+author: InterImm
 toc: true
 comments: true
 categories: science
