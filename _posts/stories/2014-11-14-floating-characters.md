@@ -6,7 +6,7 @@ author: Probe
 toc: false
 comments: true
 categories: stories
-summary: 待加
+summary: 格兰达大道上，梧桐树上挂着许多悬幕，而瓦雷机器人正在将梧桐树一棵棵拔掉，此时我发现前方有一条空白的私密悬幕。
 ---
 
 本文是基于[星际移民之书](http://InterImm.org/InterImmBook)相关设定的**支线**故事，
