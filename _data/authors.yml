@@ -1,8 +1,8 @@
 OctoMiao:
     name: OctoMiao
     display_name: 章鱼喵
-    gravatar: 6305c4ddddd7a0733706f5b3116acb73
-    avatar: 
+    gravatar: 
+    avatar: octomiao.jpg
     email: 
     web: http://openmetric.org
     weibo: http://www.weibo.com/1510425807
@@ -49,7 +49,7 @@ unionx:
 InterImm:
     name: 星际移民中心
     display_name: 星际移民中心
-    gravatar: b8ee07de96a1d7bcd36a5c2664780c8c
+    gravatar: 
     avatar: interimm.png
     email: interimm@qq.com
     web: http://interimm.org
@@ -61,7 +61,7 @@ InterImm:
 example:
     name: First Name
     display_name: DisplayName
-    gravatar: 12e480a364a5c19214f99b4dfe9a11d5
+    gravatar: 
     email: example@company.com
     web: http://example.com
     twitter: 
