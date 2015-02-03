@@ -14,6 +14,10 @@
   url: /history/
   excerpt: "星际移民的历史"
 
+- title: TIL
+  url: /til/
+  excerpt: "Today I Learned"
+  
 
 - title: 关于
   url: /about/
@@ -21,6 +25,6 @@
 
 
 - title: 星际移民中心
-  url: http://interimm.org
+  url: http://interimm.org/
   excerpt: "致力于星际移民"
 
