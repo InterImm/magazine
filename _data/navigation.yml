@@ -14,10 +14,13 @@
   url: /history/
   excerpt: "星际移民的历史"
 
+- title: 圆桌
+  url: /club/
+  excerpt: "星际圆桌"
+
 - title: TIL
   url: /til/
-  excerpt: "Today I Learned"
-  
+  excerpt: "每日新知"  
 
 - title: 关于
   url: /about/
