@@ -70,8 +70,26 @@ title:
 
 
 {% if site.categories.history.size %}
-<a href="./history/">查看所有故事（共 {{ site.categories.history.size }} 篇）</a>
+<a href="./history/">查看所有历史（共 {{ site.categories.history.size }} 篇）</a>
 		{% else %}
 暂无历史类文章
 		{% endif %}
+
+
+## 近期圆桌文章
+
+<div class="tiles">
+{% for post in site.categories.club limit:5 %}
+	{% include post-list-cn.html %}
+{% endfor %}
+</div><!-- /.tiles -->
+
+
+
+{% if site.categories.club.size %}
+<a href="./history/">查看所有圆桌文章（共 {{ site.categories.history.size }} 篇）</a>
+		{% else %}
+暂无圆桌文章
+		{% endif %}
+
 

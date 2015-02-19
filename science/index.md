@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: 
+title: 科学
 ---
 
 
 
 
-## 星际移民的科学
+
 
 
 {% if site.categories.science.size %}

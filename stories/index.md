@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: 
+title: 故事
 ---
 
 
 
 
-## 星际移民的故事
+
 
 {% if site.categories.stories.size %}
 共有 {{ site.categories.stories.size }} 篇故事类文章
