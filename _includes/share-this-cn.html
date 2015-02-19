@@ -1,0 +1,5 @@
+<div class="inline-btn">
+	<a class="btn-social weibo" href="http://service.weibo.com/share/share.php?title={{ page.title | escape | replace:' ','%20' }} | @{{ site.owner.weibo }}&amp;url={{ page.url | replace:'index.html','' | prepend: site.url }}" target="_blank"><i class="fa fa-weibo" aria-hidden="true"></i> 分享到微博</a>
+	<a class="btn-social douban" href="http://www.douban.com/share/service?bm=&amp;image={{ site.url}}/images/{{ page.image.feature }}&amp;href={{ page.url | replace:'index.html','' | prepend: site.url }}&amp;updated=&amp;name=" target="_blank"><i class="fa fa-heart-o" aria-hidden="true"></i> 分享到豆瓣</a>
+	<a class="btn-social facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | replace:'index.html','' | prepend: site.url }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> Share on Facebook</a>
+</div><!-- /.share-this -->
