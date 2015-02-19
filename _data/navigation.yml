@@ -1,0 +1,33 @@
+# Site navigation links
+
+- title: 科学
+  url: /science/
+  excerpt: "星际移民的科学"
+
+
+- title: 故事
+  url: /stories/
+  excerpt: "星际移民的故事"
+
+
+- title: 历史
+  url: /history/
+  excerpt: "星际移民的历史"
+
+- title: 圆桌
+  url: /club/
+  excerpt: "星际圆桌"
+
+- title: TIL
+  url: /til/
+  excerpt: "每日新知"  
+
+- title: 关于
+  url: /about/
+  excerpt: "关于这本杂志"
+
+
+- title: 星际移民中心
+  url: http://interimm.org/
+  excerpt: "致力于星际移民"
+
