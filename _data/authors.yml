@@ -1,0 +1,68 @@
+OctoMiao:
+    name: OctoMiao
+    display_name: 章鱼喵
+    gravatar: 
+    avatar: octomiao.jpg
+    email: 
+    web: http://openmetric.org
+    weibo: http://www.weibo.com/1510425807
+    bio: "<b>星际移民中心成员</b><br><b>关键词</b>：理论物理，星际推进技术，曲率推进，广义相对论，Mathematica，宇宙学"
+    douban: 
+    twitter: 
+    github: 
+Probe:
+    name: Probe
+    display_name: Probe
+    gravatar: 
+    avatar: probe.png
+    email: 
+    web: http://www.guokr.com/i/0275510731/
+    weibo: http://www.weibo.com/protossprobe
+    bio: "<b>星际移民中心成员</b><br><b>关键词</b>：太空探索，火星移民，科幻，小行星采矿"
+    douban: 
+    twitter: 
+    github: 
+styra:
+    name: styr.py
+    display_name: 舟放之
+    gravatar: 
+    avatar: styra.jpg
+    email: 
+    web: 
+    weibo: 
+    bio: "<b>星际移民中心成员</b><br><b>关键词</b>：宇宙学，数值模拟，地外行星，搜寻地外文明，社会学"
+    douban: 
+    twitter: 
+    github: 
+unionx:
+    name: unionx
+    display_name: 帝归
+    gravatar: 
+    avatar: unionx.png
+    email: 
+    web: http://unionx.github.io/
+    weibo: 
+    bio: "<b>星际移民中心成员</b><br><b>关键词</b>：计算，生命系统，行星生态改造，系统模拟"
+    douban: 
+    twitter: 
+    github: 
+InterImm:
+    name: 星际移民中心
+    display_name: 星际移民中心
+    gravatar: 
+    avatar: interimm.png
+    email: interimm@qq.com
+    web: http://interimm.org
+    weibo: http://www.weibo.com/iiaofficial
+    bio: "<b>星际移民中心</b>"
+    douban: 
+    twitter: 
+    github: 
+example:
+    name: First Name
+    display_name: DisplayName
+    gravatar: 
+    email: example@company.com
+    web: http://example.com
+    twitter: 
+    github: 
