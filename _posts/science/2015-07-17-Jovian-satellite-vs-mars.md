@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "殖民行星和气态行星的卫星之间的差异"
-modified: 2014-10-17 #2014-08-27T11:57:41-04:00
+modified: 2015-07-17 #2014-08-27T11:57:41-04:00
 author: OctoMiao
 toc: false
 comments: true
@@ -33,7 +33,7 @@ summary: 整体而言，在木星土星周围相比于火星最大的问题就�
 <figcaption>
 从地球出发到其它星球的 DeltaV。土星木星卫星所需要的 DeltaV 非常多。关于更多的太阳系 DeltaV 信息（包括一份地图）请参考：<a href="https://github.com/InterImm/InterImmBook/issues/70" target="_blank">太阳系 Delta V Map · Issue #70 · InterImm/InterImmBook · GitHub</a>.
 </figcaption>
-![从地球出发到其它星球的 DeltaV。]({{site.url}}/images/jovian-satellite-vs-mars/deltaV.jpg)
+![从地球出发到其它星球的 DeltaV。]({{site.url}}/images/posts/jovian-satellite-vs-mars/deltaV.jpg)
 </figure>
 
 
@@ -63,7 +63,7 @@ summary: 整体而言，在木星土星周围相比于火星最大的问题就�
 <figcaption>
 各大行星以及泰坦和冥王星的大气压和成分。图作者和协议见图右下角，原作者不允许翻译，因此保留英文。
 </figcaption>
-![从地球出发到其它星球的 DeltaV。]({{site.url}}/images/jovian-satellite-vs-mars/atmosphere.jpg)
+![]({{site.url}}/images/posts/jovian-satellite-vs-mars/atmosphere.jpg)
 </figure>
 
 
@@ -83,6 +83,15 @@ summary: 整体而言，在木星土星周围相比于火星最大的问题就�
 围的每人每天接受到的辐射计量可以高达 36Sv （3.6×10^6 millirads），只需要不到一小时就会达到 NASA 的安全计量标准。而在 Europa 附近也有 5.4Sv （5.4×10^5 millirads）。虽然 [Ganymede](https://en.wikipedia.org/wiki/Ganymede_(moon)) 有磁层（是太阳系中唯一的有磁层的卫星），但是相比于木星的磁场来说，这个磁场太弱了，并不能像地球一样屏蔽高能带电粒子。
 
 
+<figure markdown="1">
+<figcaption>
+木星的辐射问题
+</figcaption>
+![]({{site.url}}/images/posts/jovian-satellite-vs-mars/radiation.jpg)
+</figure>
+
+
+
 仅仅来自木星磁层的辐射（可以对比上面提到的火星的辐射来思考）
 
 * Io: 36Sv 每天
@@ -97,6 +106,6 @@ summary: 整体而言，在木星土星周围相比于火星最大的问题就�
 
 ## 参考和扩展阅读
 
-[^1]: ["References & Documents"](http://web.archive.org/web/20100530060723/http://hacd.jsc.nasa.gov/projects/space_radiation_marie_references.cfm). Human Adaptation and Countermeasures Division, Johnson Space Center, NASA. Archived from [the original](http://hacd.jsc.nasa.gov/projects/space_radiation_marie_references.cfm) on May 30, 2010.
-[^2]: Chandler, D. L. (20 October 2002). ["Thin ice opens lead for life on Europa"](http://www.newscientist.com/article.ns?id=dn2929). http://NewScientist.com.
-[^3]: 广告广告关于太阳系的开发，请关注[《星际移民之书》](http://interimm.org/InterImmBook/)。
+1. ["References & Documents"](http://web.archive.org/web/20100530060723/http://hacd.jsc.nasa.gov/projects/space_radiation_marie_references.cfm). Human Adaptation and Countermeasures Division, Johnson Space Center, NASA. Archived from [the original](http://hacd.jsc.nasa.gov/projects/space_radiation_marie_references.cfm) on May 30, 2010.
+2. Chandler, D. L. (20 October 2002). ["Thin ice opens lead for life on Europa"](http://www.newscientist.com/article.ns?id=dn2929). http://NewScientist.com.
+3. 关于太阳系的开发，请关注[《星际移民之书》](http://interimm.org/InterImmBook/)。
