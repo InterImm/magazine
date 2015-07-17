@@ -1,9 +1,9 @@
 ---
-published: false
+published: true
 layout: article
 title: 行星际通信相关问题
 date: 2015-07-08
-modified: 2015-07-08
+modified: 2015-07-17
 author: OctoMiao
 toc: true
 tags: 
@@ -77,8 +77,6 @@ summary: 地球和火星相距遥远，电磁波信号的传输存在很多问�
 </figcaption>
 ![]({{site.url}}/images/posts/intercom/noblocking.jpg)
 </figure>
-
-
 
 
 
