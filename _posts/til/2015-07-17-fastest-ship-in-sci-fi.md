@@ -16,6 +16,6 @@ summary: 宇宙中最快的飞船，当然是 Heart of Gold 出自 The Hitchhike
 <figcaption>
 宇宙中最快的飞船。来自<a href="https://www.fatwallet.com/blog/fastest-ship-in-the-universe/" target="_blank">FASTEST SHIP IN THE UNIVERSE: HOW SCI-FI SHIPS STACK UP | FatWallet</a>。
 </figcaption>
-![]({{site.url}}/images/posts/fasted-ship-in-sci-fi/Fastest-Ship-in-the-Universe_IG.png)
+![]({{site.url}}/images/posts/fastest-ship-in-sci-fi/Fastest-Ship-in-the-Universe_IG.png)
 </figure>
 
