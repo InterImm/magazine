@@ -33,7 +33,7 @@ Nikolai Kibalchich 死后十年，德国工程师 Hermann Ganswindt 重新发现
 
 <figure markdown="1">
 <figcaption>
-Goddard 和他的液体火箭实验。来自 [维基百科：File:Goddard and Rocket.jpg](https://en.wikipedia.org/wiki/File:Goddard_and_Rocket.jpg)。
+Goddard 和他的液体火箭实验。来自 <a href="https://en.wikipedia.org/wiki/File:Goddard_and_Rocket.jpg" target="_ blank">维基百科：File:Goddard and Rocket.jpg</a>。
 </figcaption>
 ![]({{site.url}}/images/posts/project-orion/Goddard_and_Rocket.jpg)
 </figure>
@@ -45,7 +45,7 @@ Goddard 和他的液体火箭实验。来自 [维基百科：File:Goddard and Ro
 
 <figure markdown="1">
 <figcaption>
-美国和苏联/俄罗斯的核弹头数量历史。来自 [维基百科：File:US and USSR nuclear stockpiles.svg](https://en.wikipedia.org/wiki/File:US_and_USSR_nuclear_stockpiles.svg)。
+美国和苏联/俄罗斯的核弹头数量历史。来自 <a href="https://en.wikipedia.org/wiki/File:US_and_USSR_nuclear_stockpiles.svg" target="_ blank">维基百科：File:US and USSR nuclear stockpiles.svg</a>。
 </figcaption>
 ![]({{site.url}}/images/posts/project-orion/US_and_USSR_nuclear_stockpiles.png)
 </figure>
@@ -55,7 +55,7 @@ Goddard 和他的液体火箭实验。来自 [维基百科：File:Goddard and Ro
 
 <figure markdown="1">
 <figcaption>
-Longmier 和 Ulam 的核推进示意图。来自 [Longmier, C.; F. Reines; S. Ulam (August 1958). ”Some Schemes for Nuclear Propulsion“]({{site.url}}/images/posts/project-orion/ulam-reines-nuclear-prop.pdf)。
+Longmier 和 Ulam 的核推进示意图。来自 <a href="{{site.url}}/images/posts/project-orion/ulam-reines-nuclear-prop.pdf" target="_ blank">Longmier, C.; F. Reines; S. Ulam (August 1958). ”Some Schemes for Nuclear Propulsion“</a>。
 </figcaption>
 ![]({{site.url}}/images/posts/project-orion/ulam-bomb-prop.png)
 </figure>
@@ -63,7 +63,7 @@ Longmier 和 Ulam 的核推进示意图。来自 [Longmier, C.; F. Reines; S. Ul
 
 <figure markdown="1">
 <figcaption>
-Reines 的核裂变发动机示意图。来自 [Longmier, C.; F. Reines; S. Ulam (August 1958). ”Some Schemes for Nuclear Propulsion“]({{site.url}}/images/posts/project-orion/ulam-reines-nuclear-prop.pdf)。
+Reines 的核裂变发动机示意图。来自 <a href="{{site.url}}/images/posts/project-orion/ulam-reines-nuclear-prop.pdf" target="_ blank">Longmier, C.; F. Reines; S. Ulam (August 1958). ”Some Schemes for Nuclear Propulsion“</a>。
 </figcaption>
 ![]({{site.url}}/images/posts/project-orion/reines-mixing-gas-prop.png)
 </figure>
@@ -72,7 +72,7 @@ Reines 的核裂变发动机示意图。来自 [Longmier, C.; F. Reines; S. Ulam
 在这篇报告中，共有两个不同类型的方案被提出来了。
 
 * Longmier 和 Ulam 讨论了利用核弹爆炸脉冲作为推力。
-* Reines 讨论了混合 $U^{235}$ 和重水混合作为推进的方案。裂变燃料和重水混合在一起，核裂变加热重水变成气体，然后产生推力。在报告中 Reines 同时讨论了这个方案中多级加热可以提高燃料效率。
+* Reines 讨论了混合 $$U^{235}$$ 和重水混合作为推进的方案。裂变燃料和重水混合在一起，核裂变加热重水变成气体，然后产生推力。在报告中 Reines 同时讨论了这个方案中多级加热可以提高燃料效率。
 
 
 Project Orion 就是一个研究核弹脉冲作为火箭推力的一个方案。Project Orion 不仅进行了理论的研究，而且用炸药实际做过实验。[^projectRover]
@@ -103,5 +103,5 @@ Project Orion 就是一个研究核弹脉冲作为火箭推力的一个方案。
 
 [^CarlSagan]: [关于 Carl Sagan 这段话的视频记录](https://www.youtube.com/watch?v=8rEa9ACC-TM)
 [^nikolaiK]: [Nikolai Kibalchich @ Wikipedia](https://en.wikipedia.org/wiki/Nikolai_Kibalchich)
-[^ulamNuclearProp]: Longmier, C.; F. Reines; S. Ulam (August 1958). ["Some Schemes for Nuclear Propulsion"]({{site.url}}/images/posts/project-orion/ulam-reines-nuclear-prop.pdf). LANL report LAMS-2186.
+[^ulamNuclearProp]: Longmier, C.; F. Reines; S. Ulam (August 1958). ["Some Schemes for Nuclear Propulsion"]({{site.url}}/images/posts/project-orion/ulam-reines-nuclear-prop.pdf). LANL report LAMS-2186.
 [^projectRover]: Project Rover 和 Project Orion 都是核动力飞机和火箭的项目。Project Rover 并入了后来的 NERVA 计划，但是 1972 年被终止了。
