@@ -6,7 +6,7 @@ modified: 2015-05-26
 date: 2015-05-26
 author: OctoMiao
 toc: true
-tags: 
+tags:
   - EM-Drive
   - Warp-Drive
   - Krasnikov-Tube
@@ -116,9 +116,3 @@ Interstellar Travel: A Tool for Teaching General Relativity,” American Journal
 7. M. Morris, K. Thorne, U. Yurtsever, “Wormholes, Time Machines, and the Weak Energy Condition,” Physical Review Letters, Vol. 61, 1988, pp. 1446 1449.
 8. M. Alcubierre, “The Warp Drive: Hyper Fast Travel Within General Relativity,” Classical and Quantum Gravity, Vol. 11, May 1994, pp. L73 L77.
 9. S. Krasnikov, “Hyperfast Interstellar Travel in General Relativity,” Physical Review D, Vol. 56, 1997, pp. 2100 2108.
-
-
-
-
-
-
