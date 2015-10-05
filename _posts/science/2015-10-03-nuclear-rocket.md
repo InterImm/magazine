@@ -50,7 +50,7 @@ Goddard 和他的液体火箭实验。来自 [维基百科：File:Goddard and Ro
 ![]({{site.url}}/images/posts/project-orion/US_and_USSR_nuclear_stockpiles.png)
 </figure>
 
-早在曼哈顿计划晚期，Ulam 就开始讨论除了武器之外的核能的应用。1958 年 Stanislaw Ulam 和 Frederick Reines 在一篇报告中讨论了一些可能的核动力火箭技术。[^ulamNuclearProp]
+早在曼哈顿计划晚期，Ulam 就开始讨论除了武器之外的核能的应用。1958 年 Stanislaw Ulam 和 Frederick Reines 在一篇报告中讨论了一些可能的核动力火箭技术。 [^ulamNuclearProp]
 
 
 <figure markdown="1">
@@ -75,7 +75,7 @@ Reines 的核裂变发动机示意图。来自 [Longmier, C.; F. Reines; S. Ulam
 * Reines 讨论了混合 $U^{235}$ 和重水混合作为推进的方案。裂变燃料和重水混合在一起，核裂变加热重水变成气体，然后产生推力。在报告中 Reines 同时讨论了这个方案中多级加热可以提高燃料效率。
 
 
-Project Orion 就是一个研究核弹脉冲作为火箭推力的一个方案。Project Orion 不仅进行了理论的研究，而且用炸药实际做过实验。
+Project Orion 就是一个研究核弹脉冲作为火箭推力的一个方案。Project Orion 不仅进行了理论的研究，而且用炸药实际做过实验。[^projectRover]
 
 之后人们设计了很多核裂变和核聚变火箭，这些核动力火箭一直激励着人类，飞向星空。
 
