@@ -247,9 +247,9 @@ $$du = - \frac{u_e dm(t)}{m(t)} - g dt.$$
 
 $$u(t) = - u_e \ln\left( \frac{m(t)}{m(0)} \right) - g t.$$
 
-为了方便，我们会定义一个量 $Isp\cdot g =  u_e$，方程就重新写成了
+为了方便，我们会定义一个量 $\mathrm{Isp}\cdot g =  u_e$，方程就重新写成了
 
-$$u(t) = g \left( Isp \ln \left( \frac{m(0)}{m(t)} \right) - t  \right).$$
+$$u(t) = g \left( \mathrm{Isp} \ln \left( \frac{m(0)}{m(t)} \right) - t  \right).$$
 
 所以说，Isp 其实就是火箭在真空中的速度极限（等于工质的喷出速度）除以地球上的重力加速度。从这个 $\ln$ 关系可以发现，火箭的初始质量跟 Isp 是指数相关的，非常敏感。
 
