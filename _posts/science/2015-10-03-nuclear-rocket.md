@@ -265,7 +265,7 @@ Project Orion 中的飞船设计的 Isp 一般在 3000-6000 之间，而一般�
 <figcaption>
 Project Daedalus 与帝国大厦的比较。来自 <a href="http://www.bisbos.com/space_n_daedalus_gallery.html" target="_ blank">Project Daedalus Scales</a>。
 </figcaption>
-![]({{site.url}}/images/posts/project-orion/daedalus-empirestate-2_l.jpg)
+![]({{site.url}}/images/posts/project-daedalus/daedalus-empirestate-2_l.jpg)
 </figure>
 
 
@@ -279,7 +279,7 @@ Project Daedalus 设计的初衷是想证明在当时的已知科技的框架下
 <figcaption>
 使用高能质子束来引发核聚变。高能质子束的能量在 GeV 量级，轰击在中间的氘棒上（图中 D）。来自 <a href="http://arxiv.org/abs/0812.0397" target="_ blank">arXiv:0812.0397</a>。
 </figcaption>
-![]({{site.url}}/images/posts/project-orion/project-daedalus-ignition.png)
+![]({{site.url}}/images/posts/project-daedalus/project-daedalus-ignition.png)
 </figure>
 
 
