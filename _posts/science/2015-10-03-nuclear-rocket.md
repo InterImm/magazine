@@ -299,7 +299,7 @@ Project Medusa 是二十世纪九十年代由 Johndale C. Solem 设计的一个�
 
 <figure markdown="1">
 <figcaption>
-Project Medusa 飞行的时候就像海中一个巨大的乌贼一样。来自 <a href="https://www.youtube.com/watch?v=mT4ZdPRADEw" target="_ blank">The Medusa - An advanced nuclear pulse spacecraft</a>。
+Project Medusa 飞行的时候就像海中一个巨大的乌贼一样。完整视频在我们的 <a href="http://www.bilibili.com/video/av3157254/" target="_ blank">Bilibili:av3157254</a>。来自 <a href="https://www.youtube.com/watch?v=mT4ZdPRADEw" target="_ blank">The Medusa - An advanced nuclear pulse spacecraft</a>。
 </figcaption>
 ![]({{site.url}}/images/posts/project-medusa/project-medusa-demonstration.gif)
 </figure>
@@ -314,7 +314,7 @@ Johndale Solem 对 Isp 估算的结果，如果使用 25 吨当量的炸弹，$I
 
 <figure markdown="1">
 <figcaption>
-MSNW 公司的设计。先向引擎注入一团磁约束等离子体，然后一直移动到引擎狭窄的喷嘴，核聚变被触发，从而产生动力。2011 年，MSNW 公司拿到了 NASA 对于他们的核聚变火箭设计的资助，他们的设计是使用磁约束的等离子体核聚变来产生推力。还有更多文章更多的设计在探讨可控核聚变作为引擎的可能性。来自 <a href="https://www.youtube.com/watch?v=mT4ZdPRADEw" target="_ blank">The Medusa - An advanced nuclear pulse spacecraft</a>。
+MSNW 公司的设计。先向引擎注入一团磁约束等离子体，然后一直移动到引擎狭窄的喷嘴，核聚变被触发，从而产生动力。2011 年，MSNW 公司拿到了 NASA 对于他们的核聚变火箭设计的资助，他们的设计是使用磁约束的等离子体核聚变来产生推力。还有更多文章更多的设计在探讨可控核聚变作为引擎的可能性。来自 <a href="http://www.nasa.gov/pdf/716077main_Slough_2011_PhI_Fusion_Rocket.pdf" target="_ blank">Nuclear Propulsion through Direct Conversion of Fusion Energy: The Fusion Driven Rocket, Phase I Final Report</a>。
 </figcaption>
 ![]({{site.url}}/images/posts/nuclear-fusion/msnw-fusion-drive.png)
 </figure>
