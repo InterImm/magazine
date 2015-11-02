@@ -79,23 +79,7 @@ Project Orion 就是一个研究核弹脉冲作为火箭推力的一个完整方
 
 之后人们设计了很多核裂变和核聚变火箭，这些核动力火箭一直激励着人类，飞向星空。
 
-* Project Orion；
-* Project Rover 和 NERVA；
-* Project Daedalus；
-* Project Medusa；
-* Project Longshot；
-* Project Pluto；
-* Nuclear Salt Rocket
-* ……
 
-另外，Icarus Interstellar 有一些理论项目：
-
-* Project Icarus
-* Project Hyperion
-* Project Bifrost
-* Project Forward
-
-这个系列接下来的内容，就是要介绍这些核动力火箭。
 
 
 ## Project Orion
@@ -288,6 +272,48 @@ Project Daedalus 设计的初衷是想证明在当时的已知科技的框架下
 
 
 
+## Project Medusa 和其它
+
+
+
+<figure markdown="1">
+<figcaption>
+Project Medusa 的原理。飞船向前释放一颗核弹，核弹在靠近船帆的地方爆炸，能量用来推动飞船前进。来自 <a href="https://commons.wikimedia.org/wiki/File:MedusaNuclearPropulsionOperatingSequenceDrawing.png" target="_ blank">File:MedusaNuclearPropulsionOperatingSequenceDrawing.png</a>。
+</figcaption>
+![]({{site.url}}/images/posts/project-medusa/MedusaNuclearPropulsionOperatingSequenceDrawing.png)
+</figure>
+
+
+Project Medusa 是二十世纪九十年代由 Johndale C. Solem 设计的一个核动力飞船[^johndale]。
+
+[Johndale Solem 在 LANL 的一篇报告中]({{site.url}}/images/posts/project-medusa/projectMedusa.pdf)[^johndaleLANL]解释了 Project Orion 的一些问题：
+
+1. Project Orion 的推进板（飞船尾部用来接受爆炸能量的板）无法设计成很大面积，因为这是向前推进，如果面积很大，对材料结构要求很大。
+2. Project Orion 的减震系统很复杂，而且只要还需要使用核动力推进，这套复杂沉重的减震系统就需要一直的飞船上，这是对核弹能量的一种浪费。
+3. 由于飞船的载人舱和核弹爆炸距离不是很远，核弹的辐射对于宇航员的健康的影响比较大。
+
+
+为了解决这些问题，Johndale Solem 设计了 Project Medusa，使用飞船前方巨大的船帆来代替原来飞船尾部的推进板。这样巨大的船帆来收集爆炸产生的能量效率要远远高于原来比较小的推进板，而且船帆拉住飞船船体的设计，对材料的要求要低一些，加上拉住船帆的长索飞船长，核弹爆炸距离载人舱要比 Project Orion 的设计里面远得多，这样飞船要比 Project Orion 的效率更高，也更安全。
+
+
+
+<figure markdown="1">
+<figcaption>
+Project Medusa 飞行的时候就像海中一个巨大的乌贼一样。来自 <a href="https://www.youtube.com/watch?v=mT4ZdPRADEw" target="_ blank">The Medusa - An advanced nuclear pulse spacecraft</a>。
+</figcaption>
+![]({{site.url}}/images/posts/project-medusa/project-medusa-demonstration.gif)
+</figure>
+
+
+Johndale Solem 对 Isp 估算的结果，如果使用 25 吨当量的炸弹，$Isp \sim 4.25\times 10^3 \mathrm{s}$。这个量级与 Project Orion 相差不大，然而整体设计却比 Project Orion 要简单地多。至于船帆的材料，Johndale Solem 建议使用高强度聚乙烯，因为密度小强度大。这样我们可以做 500 米直径的船帆[^johndaleLANL]，这样船帆的质量在 10 吨的量级，作为对照，阿波罗登月舱的质量大约是 15 吨。
+
+
+
+
+
+
+
+
 
 
 
@@ -298,3 +324,5 @@ Project Daedalus 设计的初衷是想证明在当时的已知科技的框架下
 [^ulamNuclearProp]: Longmier, C.; F. Reines; S. Ulam (August 1958). ["Some Schemes for Nuclear Propulsion"]({{site.url}}/images/posts/project-orion/ulam-reines-nuclear-prop.pdf). LANL report LAMS-2186.
 [^projectRover]: Project Rover 和 Project Orion 都是核动力飞机和火箭的项目。Project Rover 并入了后来的 NERVA 计划，但是 1972 年被终止了。
 [^fweinberg]: [arXiv:0812.0397](http://arxiv.org/abs/0812.0397)
+[^johndale]: Johndale Solem 在 1993 年发表了一篇关于 Medusa 的文章：Solem, J. C., Medusa: Nuclear Explosive Propulsion for Interplanetary Travel, Journal of the British Interplanetary Society, Vol. 46, pp. 21-26,1993.
+[^johndaleLANL]: [Some New Ideas for Nuclear Explosive Spacecraft Propulsion]({{site.url}}/images/posts/project-medusa/projectMedusa.pdf)
