@@ -272,7 +272,7 @@ Project Daedalus 设计的初衷是想证明在当时的已知科技的框架下
 
 
 
-## Project Medusa 和其它
+## Project Medusa
 
 
 
@@ -306,6 +306,19 @@ Project Medusa 飞行的时候就像海中一个巨大的乌贼一样。来自 <
 
 
 Johndale Solem 对 Isp 估算的结果，如果使用 25 吨当量的炸弹，$Isp \sim 4.25\times 10^3 \mathrm{s}$。这个量级与 Project Orion 相差不大，然而整体设计却比 Project Orion 要简单地多。至于船帆的材料，Johndale Solem 建议使用高强度聚乙烯，因为密度小强度大。这样我们可以做 500 米直径的船帆[^johndaleLANL]，这样船帆的质量在 10 吨的量级，作为对照，阿波罗登月舱的质量大约是 15 吨。
+
+
+## 尚未终结的设想
+
+我们对于航行于太空的设想，依然在继续。核能是人类所能控制的能量密度最大的能源，也最有可能成为人类成为太空文明的一个重要阶梯。
+
+<figure markdown="1">
+<figcaption>
+MSNW 公司的设计。先向引擎注入一团磁约束等离子体，然后一直移动到引擎狭窄的喷嘴，核聚变被触发，从而产生动力。2011 年，MSNW 公司拿到了 NASA 对于他们的核聚变火箭设计的资助，他们的设计是使用磁约束的等离子体核聚变来产生推力。还有更多文章更多的设计在探讨可控核聚变作为引擎的可能性。来自 <a href="https://www.youtube.com/watch?v=mT4ZdPRADEw" target="_ blank">The Medusa - An advanced nuclear pulse spacecraft</a>。
+</figcaption>
+![]({{site.url}}/images/posts/nuclear-fusion/msnw-fusion-drive.png)
+</figure>
+
 
 
 
