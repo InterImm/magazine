@@ -20,3 +20,13 @@ title: 星际圆桌
 	{% include post-list-cn.html %}
 {% endfor %}
 </div><!-- /.tiles -->
+
+
+-----
+
+星际圆桌记录：
+
+* [推进技术讨论幻灯片](archive/propulsion/slides/index.html)
+* [火星计时和历法幻灯片](archive/marsTimeKeeping/slides/index.html)
+* [火星基地建设讨论幻灯片](archive/marsBase/slides/index.html)
+* [新职业和专业讨论幻灯片](archive/professions/slides/index.html)
