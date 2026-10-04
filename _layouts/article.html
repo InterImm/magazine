@@ -1,36 +1,47 @@
 ---
 layout: default
 ---
+{%- assign cat = page.categories | first %}
+{%- assign section = site.data.navigation | where: "key", cat | first %}
+{%- if page.author %}{% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}{% endif %}
+<article itemscope itemtype="http://schema.org/Article">
+  <header class="page-hero">
+    <div class="wrap">
+      <nav class="crumbs kicker" aria-label="breadcrumb">
+        <a href="{{ site.url }}/">{{ site.title }}</a>{% if section %} / <a href="{{ site.url }}{{ section.url }}">{{ section.title }}</a>{% endif %}
+      </nav>
+      <h1 itemprop="headline">{{ page.title }}</h1>
+      {%- if page.summary %}
+      <p class="lede">{{ page.summary }}</p>
+      {%- endif %}
+      {%- if page.categories %}
+      <dl class="meta-list">
+        <div><dt>作者</dt><dd itemprop="author">{{ author.display_name | default: author.name }}</dd></div>
+        {%- if page.date %}
+        <div><dt>发表</dt><dd><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%Y-%m-%d" }}</time></dd></div>
+        {%- endif %}
+        {%- if page.modified %}
+        <div><dt>更新</dt><dd><time datetime="{{ page.modified | date: '%Y-%m-%d' }}" itemprop="dateModified">{{ page.modified | date: "%Y-%m-%d" }}</time></dd></div>
+        {%- endif %}
+        {%- if page.tags.size > 0 %}
+        <div><dt>标签</dt><dd><ul class="chips chips-small">{% for tag in page.tags %}<li>{{ tag }}</li>{% endfor %}</ul></dd></div>
+        {%- endif %}
+      </dl>
+      {%- endif %}
+    </div>
+  </header>
 
-<div id="main" role="main">			
-	<article class="wrap" itemscope itemtype="http://schema.org/Article">
-		{% if page.image.feature %}
-		<div class="page-feature">
-			<div class="page-image">
-				<img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
-				{% if page.image.credit %}{% include image-credit.html %}{% endif %}
-			</div><!-- /.page-image -->
-		</div><!-- /.page-feature -->
-		{% endif %}
-		{% if page.categories %}{% include breadcrumbs-cn.html %}{% endif %}
-		<div class="page-title">
-			<h1>{{ page.title }}</h1>
-		</div>
-		<div class="inner-wrap">
-			<nav class="toc"></nav><!-- /.toc -->
-			<div id="content" class="page-content" itemprop="articleBody">
-				{{ content }}
-				<hr />
-				<footer class="page-footer">
-					{% if page.categories %}{% include page-author-cn.html %}{% endif %}
-					{% if page.share != false %}{% include share-this-cn.html %}{% endif %}
-					{% include page-meta-cn.html %}
-				</footer><!-- /.footer -->
-				<aside>
-					{% if page.comments == true %}{% include comments-duoshuo.html %}{% endif %}
-				</aside>
-			</div><!-- /.content -->
-		</div><!-- /.inner-wrap -->
-		{% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
-	</article><!-- ./wrap -->
-</div><!-- /#main -->
+  <div class="section mag-article">
+    <div class="wrap{% if page.toc %} doc-grid{% endif %}">
+      {%- if page.toc %}
+      <aside class="doc-side"><nav class="toc" aria-label="目录" hidden><p class="kicker">目录</p><ol></ol></nav></aside>
+      {%- endif %}
+      <div class="{% if page.toc %}doc-main {% endif %}prose" id="content" itemprop="articleBody">
+        {{ content }}
+      </div>
+    </div>
+    {%- if page.categories %}
+    <div class="wrap"><footer class="mag-author">{% include page-author-cn.html %}</footer></div>
+    {%- endif %}
+  </div>
+</article>

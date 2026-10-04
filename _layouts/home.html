@@ -1,0 +1,55 @@
+---
+layout: default
+---
+{%- assign latest = site.posts | first %}
+<header class="page-hero mag-cover">
+  <div class="wrap mag-cover-grid">
+    <div>
+      <p class="kicker">星际移民中心 · 杂志</p>
+      <h1>{{ site.title }}</h1>
+      <p class="lede">{{ site.description }}</p>
+      {%- if latest %}
+      <a class="mag-feature" href="{{ site.url }}{{ latest.url }}">
+        <span class="kicker">最新文章</span>
+        <strong class="mag-feature-title">{{ latest.title }}</strong>
+        <span class="mag-feature-summary">{{ latest.summary }}</span>
+      </a>
+      {%- endif %}
+    </div>
+    <figure class="plate mag-cover-plate">
+      <div class="plate-frame"><img src="{{ site.url }}/images/{{ site.cover_image }}" alt="" width="1280" height="720"></div>
+      <figcaption><span>封面：Kepler-62f 的晨星</span><span>图片来自维基共享资源</span></figcaption>
+    </figure>
+  </div>
+</header>
+
+{%- assign sections = "science,stories,history,club" | split: "," %}
+{%- assign headings = "近期科学,近期故事,近期历史,近期圆桌文章" | split: "," %}
+{%- assign empty = "暂无文章,暂无故事类文章,暂无历史类文章,暂无圆桌文章" | split: "," %}
+{%- for key in sections %}
+{%- assign i = forloop.index0 %}
+{%- assign posts = site.categories[key] %}
+{%- assign section = site.data.navigation | where: "key", key | first %}
+<section class="section{% cycle '', ' section-alt' %}">
+  <div class="wrap">
+    <div class="section-head section-head-split">
+      <div>
+        <h2 class="section-title">{{ headings[i] }}</h2>
+        <p class="section-lede">{{ section.excerpt }}</p>
+      </div>
+      {%- if posts.size > 0 %}
+      <a class="text-link" href="{{ site.url }}{{ section.url }}">查看所有{{ section.title }}（共 {{ posts.size }} 篇）<span aria-hidden="true">→</span></a>
+      {%- endif %}
+    </div>
+    {%- if posts.size > 0 %}
+    <ol class="mag-list">
+      {%- for post in posts limit:5 %}
+      {% include post-list-cn.html %}
+      {%- endfor %}
+    </ol>
+    {%- else %}
+    <p class="mag-empty">{{ empty[i] }}</p>
+    {%- endif %}
+  </div>
+</section>
+{%- endfor %}

@@ -1,12 +1,8 @@
 ---
 layout: archive
-title: 
+title: 历史
+lede: "星际移民的历史"
 ---
-
-
-
-
-## 星际移民的历史
 
 {% if site.categories.history.size %}
 共有 {{ site.categories.history.size }} 篇历史类文章
@@ -14,8 +10,8 @@ title:
 暂无历史类文章
 		{% endif %}
 
-<div class="tiles">
+<ol class="mag-list">
 {% for post in site.categories.history %}
 	{% include post-list-cn.html %}
 {% endfor %}
-</div><!-- /.tiles -->
+</ol>
